@@ -1,4 +1,4 @@
-@author zhujie 20140822
+@author zhujie 20140808
 # To enable ProGuard in your project, edit project.properties
 # to define the proguard.config property as described in that file.
 #
